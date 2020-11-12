@@ -2,6 +2,6 @@
 <resources>
     <dimen name="top">20dp</dimen>
     <dimen name="left">10dp</dimen>
-    <dimen name="margin_right">10</dimen>
+    <dimen name="margin_right">10dp</dimen>
     <dimen name="margin_left">10dp</dimen>
 </resources>
